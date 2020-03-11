@@ -1,0 +1,16 @@
+html, body {
+    margin: 1;
+    padding: 1;
+    background-color: #008000;
+
+h3{
+    color  : #800080;
+    font-size: 15pt;
+}
+p {
+    color: #bc5a45;
+}
+
+canvas {
+display: block;
+}
