@@ -1,0 +1,18 @@
+html, body {
+    margin: 1;
+    padding: 1px;
+    background-color: #f4f7b0;
+}
+
+h3 {
+    font-size: 15px;
+    color: #800080;
+}
+
+p {
+    color: #bc5a45;
+}
+
+canvas {
+    display: block;
+}
