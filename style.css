@@ -1,8 +1,8 @@
 html, body {
     margin: 1;
     padding: 1;
-    background-color: #008000;
-
+    background-color: #f4f7b0;
+}
 h3{
     color  : #800080;
     font-size: 15pt;
@@ -12,5 +12,5 @@ p {
 }
 
 canvas {
-display: block;
+    display: block;
 }
